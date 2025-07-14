@@ -33,38 +33,38 @@ This README is organized into 3 parts:
 ## Part - 1 : Weight Log Analysis
 - I decided to look for correlations between Weight(Kg) and Heart rate on a daily basis. The figure is shown below. There was no correlation found
 
-![Heart_Rate_Vs_Weight](Images\Avg._Heart_Rate_Vs_Weight.png)
+![Heart_Rate_Vs_Weight](Images/Avg._Heart_Rate_Vs_Weight.png)
 
 - Just to better understand the data I also plotted the weight and BMI distribution 
 
-![BMI_Distribution](Images\BMI_Distribution.png)
-![Weight_Distribution](Images\Weight_Distribution.png)
+![BMI_Distribution](Images/BMI_Distribution.png)
+![Weight_Distribution](Images/Weight_Distribution.png)
 
 ## Part - 2 : Hourly Activity Analysis
 - Lastly I looked Average Hourly Intensity Trends which are shown below
-![Daily Intensity Trend](Images\Avg_Hourly_Intensity_over_time.png)
+![Daily Intensity Trend](Images.Avg_Hourly_Intensity_over_time.png)
 - Also I analysed that Mean Daily Steps and Calories Burned are highly correlated. This can be seen in the figure below from their shape. (Note: Just for visibility I have divided steps by 10)
-![Daily Steps and Calories](Images\Mean_Calories_Vs_Mean_Steps.png)
+![Daily Steps and Calories](Images.Mean_Calories_Vs_Mean_Steps.png)
 - This suggests that most customers are using BellaBeat products while doing excercises.
 
 ## Part - 3 : Heart Rate Analysis
 - I also noticed that Total Intensities and Calories are well correlated with Hourly Average Heart Rate as seen in the figures below
-![Mean Hourly Heart Rate Vs Calories](Images\Hourly_Avg_Heart_Rate_Vs_Calories_Burned.png)
-![Mean Hourly Heart Rate Vs Total Intensity](Images\Hourly_Avg_Heart_Rate_Vs_Total_Intensity.png)
+![Mean Hourly Heart Rate Vs Calories](Images/Hourly_Avg_Heart_Rate_Vs_Calories_Burned.png)
+![Mean Hourly Heart Rate Vs Total Intensity](Images/Hourly_Avg_Heart_Rate_Vs_Total_Intensity.png)
 - They both have high correlation coefficients of 0.73 and 0.72 respectively. 
 
 ## Part - 4 : Minute Activity Analysis
 - In this part I first looked at Daily Avg. MET Vs Sleep
-![Daily Avg MET Vs Sleep](Images\MET_Vs_Sleep.png)
+![Daily Avg MET Vs Sleep](Images/MET_Vs_Sleep.png)
 - There was little negative correlation, not at all significant.
 - I also looked at Daily Avg Steps Vs Sleep
-![Daily Avg Steps Vs Sleep](Images\Daily_Steps_Vs_Sleep.png)
+![Daily Avg Steps Vs Sleep](Images/Daily_Steps_Vs_Sleep.png)
 - Again no significant correlation was found. 
 ## Part - 5 : Daily Activity Analysis
 - In this there were 4 different Activity Measures, namely Very Active, Fairly Active, Lightly Active and Sedentary. These are based on how "active" the user was. The Column bar for how the average number of minutes spend in a day is shown below
-![Avg Daily Minute by Activity Level](Images\Avg_Daily_Minute_by_Activity_Level.png)
+![Avg Daily Minute by Activity Level](Images/Avg_Daily_Minute_by_Activity_Level.png)
 - I also looked at correlation between Total Steps and Activity Minutes for all 4 categories. The figure for which is shown below
-![Total Steps Vs Activity Minute](Images\Correlation_Between_Total_Steps_Vs_Activity_Minutes.png)
+![Total Steps Vs Activity Minute](Images/Correlation_Between_Total_Steps_Vs_Activity_Minutes.png)
 - We can see that there is positive correlation between the 3 different activity levels, the one for which isn't is sedentary. This again proves better into our earlier hypothesis that most users use the products for excercise. It also shows that the correlations are better for more intensive activity levels, which further shows that most users use it for more and more intensive excercises.
 
 # Recommendations 
