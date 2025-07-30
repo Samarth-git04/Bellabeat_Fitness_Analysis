@@ -42,9 +42,9 @@ This README is organized into 3 parts:
 
 ## Part - 2 : Hourly Activity Analysis
 - Lastly I looked Average Hourly Intensity Trends which are shown below
-![Daily Intensity Trend](Images.Avg_Hourly_Intensity_over_time.png)
+![Daily Intensity Trend](Images/Avg_Hourly_Intensity_over_time.png)
 - Also I analysed that Mean Daily Steps and Calories Burned are highly correlated. This can be seen in the figure below from their shape. (Note: Just for visibility I have divided steps by 10)
-![Daily Steps and Calories](Images.Mean_Calories_Vs_Mean_Steps.png)
+![Daily Steps and Calories](Images/Mean_Calories_Vs_Mean_Steps.png)
 - This suggests that most customers are using BellaBeat products while doing excercises.
 
 ## Part - 3 : Heart Rate Analysis
